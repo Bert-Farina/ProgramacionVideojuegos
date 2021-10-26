@@ -19,3 +19,16 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 * Cuando el tamaño en el eje Y de un cilindro se reduce hasta 0.25 unidades este desaparece.
 
 ![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad2.gif)
+
+## Unity Collab
+
+Se ha añadido el proyecto a Unity Collab.
+
+El proceso fue clicar en el icono de Unity Collab, posteriormente se crea un Id para el proyecto y se enciende el seguimiento de Unity Collab.
+
+Unity Collab detecta todos los cambios, se seleccionan todos y se commitea y publica para su acceso online por parte de otros jugadores.
+
+En la imagen inferior se puede observar el commit inicial que hace Unity así como el commit con todos los elementos que generé yo después para tener todo el repositorio accesible online.
+
+![image](https://user-images.githubusercontent.com/5501664/138852336-ac80d130-b85b-4505-b6ef-867311957bea.png)
+
