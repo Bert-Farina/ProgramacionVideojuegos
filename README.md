@@ -32,3 +32,16 @@ En la imagen inferior se puede observar el commit inicial que hace Unity así co
 
 ![image](https://user-images.githubusercontent.com/5501664/138852336-ac80d130-b85b-4505-b6ef-867311957bea.png)
 
+## Actividad 3
+
+En estos scripts se han programado una serie de comportamientos relacionados con los eventos y el movimiento rectilíneo:
+* El personaje azul se mueve utilizando las teclas WASD y el personaje rojo usando las flechas de dirección.
+* Uno de los enemigos verdes perseguirá al personaje controlado con WASD.
+* El cilindro del centro del mapa provocará que cualquiera que lo toque tanto amigo como enemigo se teletransporte a la ubicación configurada.
+* El otro enemigo verde siempre se dirigirá a este cilindro de teletransporte.
+* Si cualquiera de los enemigos contacta con un jugador le quitará una vida, indicadas en la interfaz en la esquina superior derecha.
+* Si uno de los personajes recoge la ficha flotante violeta se abrirá la puerta de la mazmorra de roca.
+* Tocando los botones de la esquina superior izquierda se cambia al modo seleccionado si no se está ya en ese modo y no se ha perdido ninguna vida, ya que al perder una vida se considera que ha comenzado el juego y no permite cambiar de modo.
+
+![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad3/Actividad3.gif)
+
