@@ -1,4 +1,4 @@
-# Programacion Optimizada para Videojuegos
+# Fundamentos del Desarrollo de Videojuegos
 
 ## Actividad 1
 
