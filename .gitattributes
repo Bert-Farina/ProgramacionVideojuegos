@@ -1,2 +1,2 @@
-# Add BMP images to LFS
-*.git filter=lfs diff=lfs merge=lfs -text
+# Add GIT images to LFS
+*.gif filter=lfs diff=lfs merge=lfs -text
