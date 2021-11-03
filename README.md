@@ -9,7 +9,7 @@ En este script se han programado varios comportamientos relacionados con la coli
 
 Se puede observar el comportamiento en el siguiente GIF:
 
-![DEMO-Actividad-1](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad1.gif)
+![DEMO-Actividad-1](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad1/Actividad1.gif)
 
 ## Actividad 2
 
@@ -18,7 +18,7 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 * Al colisionar con uno de los cilindros en movimiento, este cambia de dirección, reduce su escala en el eje Y y aumenta su velocidad proporcionalmente al poder del jugador. Después el jugador aumenta su poder en 1. 
 * Cuando el tamaño en el eje Y de un cilindro se reduce hasta 0.25 unidades este desaparece.
 
-![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad2.gif)
+![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad2/Actividad2.gif)
 
 ## Unity Collab
 
