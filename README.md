@@ -54,3 +54,7 @@ En este juego se han programado los siguientes comportamientos:
 * Cuando se pulsa X la maga ataca.
 * Si el ladrón ataca a menos de 1.5 unidades de distancia de la maga, la maga muere.
 ![DEMO-Actividad-4](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad4/Actividad4Small.gif)
+
+## Waypoints
+
+![DEMO-Waypoints](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Waypoints/Waypoints.gif)
