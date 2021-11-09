@@ -45,3 +45,12 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 
 ![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad3/Actividad3.gif)
 
+## Actividad 4
+
+En este juego se han programado los siguientes comportamientos:
+* Tanto el ladrón como la maga tienen animación de Idle por defecto.
+* El ladrón se puede mover a izquierda y derecha con WASD, haciendo flip del sprite dependiendo de la dirección y activando la animación de caminar.
+* Cuando se pulsa espacio el ladrón ataca.
+* Cuando se pulsa X la maga ataca.
+* Si el ladrón ataca a menos de 1.5 unidades de distancia de la maga, la maga muere.
+![DEMO-Actividad-4](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad4/Actividad4Small.gif)
