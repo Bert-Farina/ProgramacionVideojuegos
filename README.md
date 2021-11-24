@@ -43,7 +43,7 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 * Si uno de los personajes recoge la ficha flotante violeta se abrirá la puerta de la mazmorra de roca.
 * Tocando los botones de la esquina superior izquierda se cambia al modo seleccionado si no se está ya en ese modo y no se ha perdido ninguna vida, ya que al perder una vida se considera que ha comenzado el juego y no permite cambiar de modo.
 
-![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad3/Actividad3.gif)
+![DEMO-Actividad-3](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad3/Actividad3.gif)
 
 ## Actividad 4
 
