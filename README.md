@@ -7,9 +7,9 @@ En este script se han programado varios comportamientos relacionados con la coli
 * Al colisionar un sistema de particulas se activa.
 * Al colisionar el personaje es devuelto a su posición de origen.
 
-Se puede observar el comportamiento en el siguiente GIF:
+Se puede observar el comportamiento en el siguiente vídeo:
 
-![DEMO-Actividad-1](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad1/Actividad1.gif)
+https://youtu.be/eREl3-QgqSY
 
 ## Actividad 2
 
@@ -18,7 +18,7 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 * Al colisionar con uno de los cilindros en movimiento, este cambia de dirección, reduce su escala en el eje Y y aumenta su velocidad proporcionalmente al poder del jugador. Después el jugador aumenta su poder en 1. 
 * Cuando el tamaño en el eje Y de un cilindro se reduce hasta 0.25 unidades este desaparece.
 
-![DEMO-Actividad-2](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad2/Actividad2.gif)
+https://youtu.be/bJw7Etsfbhs
 
 ## Unity Collab
 
@@ -43,7 +43,7 @@ En estos scripts se han programado una serie de comportamientos relacionados con
 * Si uno de los personajes recoge la ficha flotante violeta se abrirá la puerta de la mazmorra de roca.
 * Tocando los botones de la esquina superior izquierda se cambia al modo seleccionado si no se está ya en ese modo y no se ha perdido ninguna vida, ya que al perder una vida se considera que ha comenzado el juego y no permite cambiar de modo.
 
-![DEMO-Actividad-3](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad3/Actividad3.gif)
+https://youtu.be/9DADCcfcRWs
 
 ## Actividad 4
 
@@ -53,8 +53,9 @@ En este juego se han programado los siguientes comportamientos:
 * Cuando se pulsa espacio el ladrón ataca.
 * Cuando se pulsa X la maga ataca.
 * Si el ladrón ataca a menos de 1.5 unidades de distancia de la maga, la maga muere.
-![DEMO-Actividad-4](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Actividad4/Actividad4Small.gif)
+
+https://youtu.be/uZH9gmnudyA
 
 ## Waypoints
 
-![DEMO-Waypoints](https://github.com/alu0100695816/ProgramacionVideojuegos/blob/main/Waypoints/Waypoints.gif)
+https://youtu.be/QsMIuYCcc2o
