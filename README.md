@@ -59,3 +59,11 @@ https://youtu.be/uZH9gmnudyA
 ## Waypoints
 
 https://youtu.be/QsMIuYCcc2o
+
+## Actividad 5
+
+### Primera Actividad
+
+El siguiente video contiene todas las pruebas de la actividad:
+
+https://youtu.be/J9OW0nV-L_Q
