@@ -62,8 +62,28 @@ https://youtu.be/QsMIuYCcc2o
 
 ## Actividad 5
 
-### Primera Actividad
+### Parte 1
 
 El siguiente video contiene todas las pruebas de la actividad:
 
 https://youtu.be/J9OW0nV-L_Q
+
+### Parte 2
+
+El Script que contiene los mensajes de debug para collisions y triggers se encuentra en la carpeta Parte 2 de la Actividad 5
+* Cuando un objeto colisiona con otro muestra el mensaje: "El objeto X ha colisionado con Y", siendo X e Y los nombres de los diferentes objetos extraídos a través de código.
+* Cuando un objeto activa un trigger muestra el mensaje: "El objeto X ha disparado a Y", siendo X e Y los nombres de los diferentes objetos extraídos a través de código.
+
+### Parte 3
+
+En esta parte se contemplan varios comportamientos físicos requeridos por la actividad:
+* El Ladrón tiene un movimiento físico programado desde el FixedUpdate.
+* La puerta de la izquierda funciona como objeto estático que no podrá sobrepasar.
+* El ladrón llevará siembre al bebé orco a una distancia fija gracias a un Distance Joint 2D.
+* Al pasar por la palanca, el ladrón recibirá un impulso.
+* La maga es un objeto dinámico al que se le han bajado los valores de masa y efecto de la gravedad para que salga disparada cuando el ladrón la golpee tras acelerar en la palanca.
+* El ladrón podrá pasar por detrás de los enemigos, ya que se encuentran en otra capa y no colisionará a pesar de que estos tengan configurado Box Collision y Rigidbody propio.
+
+En el siguiente enlace se puede ver el vídeo de la demostración: 
+
+https://youtu.be/X0FpKIzP1LM
