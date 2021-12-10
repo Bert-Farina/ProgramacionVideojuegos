@@ -87,3 +87,19 @@ En esta parte se contemplan varios comportamientos físicos requeridos por la ac
 En el siguiente enlace se puede ver el vídeo de la demostración: 
 
 https://youtu.be/X0FpKIzP1LM
+
+## Actividad 6
+
+* Una cámara seguirá al personaje Rogue y otra cámara seguirá al personaje Wizard.
+* La cámara del Rogue será la de mayor prioridad y el juego comenzará enfocando a ella
+* La cámara del Rogue estará confinada en toda la escena, mientras que la del Wizard se mantendrá en el lado derecho de la misma.
+* La zona de seguimiento del personaje Wizard es mayor que la del Rogue.
+* Existe una cámara que seguirá a ambos personajes.
+* Cuando el Rogue choca con la estatua, la cámara vibrará, solo cuando se esté viendo la cámara asociada al Rogue.
+* Si se pulsa Espacio, la cámara cambiará a la siguiente en orden de prioridad, primero de Rogue a Wizard, de Wizard a la Cámara general y de ahí de vuelta a la del Rogue.
+* Cada vez que un personaje ataque, vibrará su propia cámara o la cámara general si se está viendo esta. Es decir, un ataque del Wizard no hará que la cámara del Rogue vibre.
+* Se ha añadido un perfil de ruido de Perlin a la cámara del Rogue, modificando su amplitud y frecuencia.
+
+El siguiente enlace contiene un video mostrando lo explicado arriba:
+
+https://youtu.be/Xr92jqS1hjE
