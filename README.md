@@ -108,28 +108,28 @@ https://youtu.be/Xr92jqS1hjE
 
 Esta actividad contiene cuatro partes: Background Scrolling, Player Scrolling, Parallax Scrolling y Pooling.
 
-# Background Scrolling
+### Background Scrolling
 
 * En este caso se añade el fondo como textura a un GameObject Quad.
 * El sprite del fondo se importa teniendo en cuenta que la propiedad "Wrap Mode" debe estar asignada a "Repeat".
 * La textura se mueve a través del Quad.
 * El personaje se configura para estar permanentemente corriendo para que no desentone con el fondo en constante movimiento.
 
-# Player Scrolling
+### Player Scrolling
 
 * En este caso el jugador debe tener asociada una cámara que le siga.
 * El fondo debe estar compuesto de dos o más sprites contínuos.
 * Cuando uno de los sprites salga de plano de la cámara que sigue al personaje se moverá al siguiente lugar para continuar la sucesión.
 * Esto funciona en ambos sentidos cambiando la condición que detecta la desaparición del fondo.
 
-# Parallax Scrolling
+### Parallax Scrolling
 
 * Parecido al caso anterior con varias modificaciones.
 * Ahora el fondo sigue estando compuesto de varios fondos continuados, sin embargo cada fondo tiene varias capas.
 * Cada capa se desplazará a distintas velocidades provocando un efecto de profundidad.
 * Igual que en el caso anterior, cuando una parte de una capa se salga de plano, se moverá al siguiente lugar para continuar la sucesión.
 
-# Pooling
+### Pooling
 
 * Consiste en crear un pool de objetos que se van activando y desactivando para ahorrar memoria y no crear objetos infinitos.
 * Se crea un pool de 5 sillas y 5 mesas usando un diccionario de colas.
