@@ -139,3 +139,9 @@ Esta actividad contiene cuatro partes: Background Scrolling, Player Scrolling, P
 El siguiente enlace contiene un video mostrando lo explicado arriba:
 
 https://youtu.be/OAwJRD9gWyA
+
+## Perforce
+
+Para probar perforce se subió el primer proyecto de Sprites2D al Depot proporcionado por la universidad para esta asignatura, usando el comando mark to add. 
+
+También se modificó el fichero de texto de ejemplo para probar a hacer checkout y modificar ficheros ya existentes, añadiendo una linea de texto nueva a dicho fichero.
